@@ -5,7 +5,7 @@ Aqui encontraras una colección organizada de mis mejores trabajos, proyectos, t
 > "Optimización de procesos institucionales y gestión estratégica de datos mediante el desarrollo de software inteligente."
 
 <p align="center">
-  <img width="957" height="585" alt="JharaiDev Banner" src="" />
+  <img width="957" height="585" alt="JharaiDev Banner" src="IA23.jpg" />
 
 </p>
 
