@@ -5,7 +5,7 @@ Aqui encontraras una colección organizada de mis mejores trabajos, proyectos, t
 > "Optimización de procesos institucionales y gestión estratégica de datos mediante el desarrollo de software inteligente."
 
 <p align="center">
-  <img width="957" height="585" alt="JharaiDev Banner" src="https://github.com/user-attachments/assets/2a2f719c-f7fd-4d23-a766-19c832470be7](https://apd-images.imgix.net/uploads/sites/2/2021/01/ramas_ia_1.jpg?auto=compress%2Cformat&crop=edges&fit=crop&ixlib=php-1.1.0&w=900&s=0655022506ec76e0f2e64d5735c1465f)](https://www.apd.es/tecnicas-de-la-inteligencia-artificial-cuales-son-y-para-que-se-utilizan/" />
+  <img width="957" height="585" alt="JharaiDev Banner" src="" />
 
 </p>
 
